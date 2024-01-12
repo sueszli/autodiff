@@ -1,5 +1,11 @@
 A minimal implementation of **forward-mode autodiff** (AD / Automatic Differentiation) using **Python's AST** (Abstract Syntax Tree) purely for educational purposes.
 
+Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
+
+<br>
+
+_Quick install:_
+
 ```bash
 # clone
 git clone https://github.com/sueszli/autodiff
@@ -32,13 +38,9 @@ OK
 '
 ```
 
-Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
+<br>
 
-<br><br>
-
-## References
-
-Further reading:
+_Further reading:_
 
 - Python AST
   - Official documentation for Python AST: https://docs.python.org/3/library/ast.html
