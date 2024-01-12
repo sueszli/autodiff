@@ -20,7 +20,13 @@ pip3 install -r requirements.txt > /dev/null
 # run test cases
 python3 autodiff.py
 
-: '
+<<###OUTPUT
+line 1
+line 2
+
+line 3
+line 4
+
 Original function:
 
 def f(x):
@@ -35,7 +41,7 @@ def f_forward_ad(x: DualNum) -> DualNum:
 Ran 6 tests in 0.388s
 
 OK
-'
+###OUTPUT
 ```
 
 <br>
