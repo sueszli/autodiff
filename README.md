@@ -1,4 +1,4 @@
-# autodiff 🧮
+# autodiff 🦆
 
 A bare bones implementation of **forward-mode autodiff** (AD / Automatic Differentiation) using Python's AST (Abstract Syntax Tree) purely for educational purposes.
 
