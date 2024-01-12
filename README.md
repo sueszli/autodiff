@@ -17,11 +17,10 @@ python3 -m pip install --upgrade pip > /dev/null
 pip3 install pipreqs > /dev/null && rm -rf requirements.txt > /dev/null && pipreqs . > /dev/null
 pip3 install -r requirements.txt > /dev/null
 
-# run test cases
+# run unit tests
 python3 autodiff.py
 
-
-
+# check if unit tests ran successfully
 <<###OUTPUT
 Original function:
 
