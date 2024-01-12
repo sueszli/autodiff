@@ -2,8 +2,8 @@ A minimal implementation of **forward-mode autodiff** (AD / Automatic Differenti
 
 ```bash
 # clone
-git clone https://github.com/sueszli/autodiff-ast
-cd autodiff-ast
+git clone https://github.com/sueszli/autodiff
+cd autodiff
 
 # install dependencies
 if command -v python3 &>/dev/null; then echo "Python 3 is installed."; else echo "Python 3 is not installed."; fi
