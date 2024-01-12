@@ -24,7 +24,7 @@ python3 autodiff.py
 
 
 
-# check if unit tests ran successfully
+# make sure the output looks similar
 <<###OUTPUT
 Original function:
 
