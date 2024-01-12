@@ -22,9 +22,6 @@ pip3 install -r requirements.txt > /dev/null
 # run unit tests
 python3 autodiff.py
 
-
-
-# make sure the output looks similar
 <<###OUTPUT
 Original function:
 
