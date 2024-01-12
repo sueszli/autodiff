@@ -48,8 +48,8 @@ _Further reading:_
 For a quick crash course in building interpreters with JAX check out `jax-inverse-function.ipynb`.
 
 - Python AST
-  - Official documentation for Python AST: https://docs.python.org/3/library/ast.html
-  - Additional documentation for Python AST: https://greentreesnakes.readthedocs.io/en/latest/index.html
+  - https://docs.python.org/3/library/ast.html
+  - https://greentreesnakes.readthedocs.io/en/latest/index.html
   - https://greentreesnakes.readthedocs.io/en/latest/manipulating.html
 - Forward AD and dual numbers:
   - https://en.wikipedia.org/wiki/Automatic_differentiation#Automatic_differentiation_using_dual_numbers
