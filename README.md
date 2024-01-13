@@ -49,4 +49,4 @@ OK
 
 <br><br>
 
-Special thanks to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation and guidance.
+Special thanks to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation and lots of guidance.
