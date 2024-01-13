@@ -2,8 +2,7 @@
 
 A bare-bones implementation of **forward-mode autodiff** (Automatic Differentiation AD) using Python's AST (Abstract Syntax Tree) purely for educational purposes.
 
-Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
-
+<br>
 
 _Content:_
 
@@ -47,3 +46,7 @@ Ran 6 tests in 0.388s
 OK
 ###OUTPUT
 ```
+
+<br>
+
+Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
