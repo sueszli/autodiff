@@ -18,6 +18,9 @@ DualNum = namedtuple("DualNum", ["value", "derivative"])
 
 
 # operators are incomplete and only serve the purpose of our single example function f(x)
+# see:
+# - https://en.wikipedia.org/wiki/Automatic_differentiation#Automatic_differentiation_using_dual_numbers
+# - https://youtu.be/5F6roh4pmJU?si=LW1ZKKvaGdl9shCz&t=555
 class DualNumOps:
     @staticmethod
     def custom_exp(inp: DualNum):
@@ -50,6 +53,11 @@ class DualNumOps:
         return DualNum(inp.value**k, inp.derivative * k * inp.value ** (k_int - 1))
 
 
+# update the abstract syntax tree
+# see: 
+# - https://docs.python.org/3/library/ast.html
+# - https://greentreesnakes.readthedocs.io/en/latest/index.html
+# - https://greentreesnakes.readthedocs.io/en/latest/manipulating.html
 def transform(fstr: str) -> str:
     class CustomOpTransformer(ast.NodeTransformer):
         def visit_FunctionDef(self, node):
