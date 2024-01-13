@@ -4,9 +4,6 @@ A bare-bones implementation of **forward-mode autodiff** (Automatic Differentiat
 
 Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
 
-- For a quick crash course in building interpreters with JAX check out `jax-inverse-function.ipynb`.
-- For 2.5-3x execution speed optimization through the use of PyTorch `scaled_dot_product_attention()` check out `pytorch-ast-optimization.py`.
-
 <br><br>
 
 ## Installation
@@ -45,6 +42,11 @@ Ran 6 tests in 0.388s
 OK
 ###OUTPUT
 ```
+
+_Bonus content:_
+
+- For a quick crash course in building interpreters with JAX check out `jax-inverse-function.ipynb`.
+- For 2.5-3x speedups by leveraging PyTorch check out `pytorch-ast-optimization.py`.
 
 <br><br>
 
