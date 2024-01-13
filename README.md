@@ -47,6 +47,6 @@ OK
 ###OUTPUT
 ```
 
-<br>
+<br><br>
 
 Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the initial implementation.
