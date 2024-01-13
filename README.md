@@ -8,7 +8,7 @@ _Content:_
 
 - Introduction to building interpreters with JAX: `jax-inverse-function.ipynb`
 - Automatic differentiation: `autodiff.py`
-- Performance optimizations by leveraging PyTorch: `pytorch-ast-optimization.py` (2-3x speedup)
+- Performance optimization by leveraging PyTorch (2-3x speedup): `pytorch-ast-optimization.py`
 
 <br>
 
