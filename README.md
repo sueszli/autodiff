@@ -47,6 +47,8 @@ _Further reading:_
 
 For a quick crash course in building interpreters with JAX check out `jax-inverse-function.ipynb`.
 
+For 2.5-3x execution speed optimization through the use of PyTorch `scaled_dot_product_attention()` check out `pytorch-ast-optimization.py`.
+
 - Python AST:
   - https://docs.python.org/3/library/ast.html
   - https://greentreesnakes.readthedocs.io/en/latest/index.html
