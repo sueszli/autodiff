@@ -29,7 +29,7 @@ pip3 install -r requirements.txt > /dev/null
 python3 autodiff.py
 
 
-<<###OUTPUT
+<<'###OUTPUT'
 Original function:
 
 def f(x):
