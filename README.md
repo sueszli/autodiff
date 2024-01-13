@@ -7,7 +7,9 @@ Credit to [Ivan Yashchuk](https://github.com/IvanYashchuk) for providing the ini
 - For a quick crash course in building interpreters with JAX check out `jax-inverse-function.ipynb`.
 - For 2.5-3x execution speed optimization through the use of PyTorch `scaled_dot_product_attention()` check out `pytorch-ast-optimization.py`.
 
-<br>
+<br><br>
+
+## Installation
 
 _Quick install:_
 
@@ -46,7 +48,7 @@ OK
 
 <br><br>
 
-_Further reading:_
+## References
 
 - Python AST:
   - https://docs.python.org/3/library/ast.html
