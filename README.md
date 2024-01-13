@@ -1,6 +1,6 @@
 # autodiff ✎ᝰ
 
-A bare-bones implementation of **forward-mode autodiff** (Automatic Differentiation AD) using Python's AST (Abstract Syntax Tree) for educational purposes.
+A bare-bones implementation of **forward-mode** automatic differentiation (AD) using Python's abstract syntax tree (AST) for educational purposes.
 
 <br>
 
