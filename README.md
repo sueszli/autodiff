@@ -2,7 +2,7 @@
 
 A bare-bones implementation of forward-mode automatic differentiation (AD) using Python's abstract syntax tree (AST) for educational purposes.
 
-Special thanks to [Ivan Yashchuk](https://github.com/IvanYashchuk) @ Nvidia for guidance and feedback
+Special thanks to [Ivan Yashchuk @ Nvidia](https://github.com/IvanYashchuk) for guidance and feedback.
 
 <br>
 
