@@ -8,7 +8,7 @@ A bare-bones implementation of forward-mode automatic differentiation (AD) using
 
 Special thanks to [Ivan Yashchuk @ Nvidia](https://github.com/IvanYashchuk) for guidance and feedback.
 
-# Usage
+# usage
 
 ```bash
 pip install -r requirements.txt
