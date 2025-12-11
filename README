@@ -1,5 +1,3 @@
-autodiff ✎ᝰ
-
 A bare-bones implementation of forward-mode automatic differentiation (AD) using Python's abstract syntax tree (AST) for educational purposes.
 
 - Introduction to building interpreters with JAX: `jax-inverse-function.ipynb`
