@@ -1,4 +1,4 @@
-# autodiff ✎ᝰ
+autodiff ✎ᝰ
 
 A bare-bones implementation of forward-mode automatic differentiation (AD) using Python's abstract syntax tree (AST) for educational purposes.
 
@@ -6,7 +6,7 @@ A bare-bones implementation of forward-mode automatic differentiation (AD) using
 - Automatic differentiation: `autodiff.py`
 - Performance optimization by leveraging PyTorch (2-3x speedup): `pytorch-ast-optimization.py`
 
-Special thanks to [Ivan Yashchuk @ Nvidia](https://github.com/IvanYashchuk) for guidance and feedback.
+Special thanks to Ivan Yashchuk @ Nvidia for guidance and feedback!
 
 # usage
 
