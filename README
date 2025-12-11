@@ -4,7 +4,7 @@ studying jax forward-mode automatic differentiation internals.
 - `autodiff.py`                 -> barebones autodiff
 - `pytorch-ast-optimization.py` -> 2-3x speedup using pytorch
 
-special thanks to Ivan Yashchuk @ Nvidia for guidance and feedback!
+special thanks to ivan yashchuk from nvidia for guidance and feedback!
 
 ```
 $ python autodiff.py
