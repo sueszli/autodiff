@@ -1,16 +1,13 @@
-A bare-bones implementation of forward-mode automatic differentiation (AD) using Python's abstract syntax tree (AST) for educational purposes.
+studying jax forward-mode automatic differentiation internals.
 
-- Introduction to building interpreters with JAX: `jax-inverse-function.ipynb`
-- Automatic differentiation: `autodiff.py`
-- Performance optimization by leveraging PyTorch (2-3x speedup): `pytorch-ast-optimization.py`
+- `jax-inverse-function.ipynb`  -> intro to building interpreters with jax
+- `autodiff.py`                 -> barebones autodiff
+- `pytorch-ast-optimization.py` -> 2-3x speedup using pytorch
 
-Special thanks to Ivan Yashchuk @ Nvidia for guidance and feedback!
+special thanks to Ivan Yashchuk @ Nvidia for guidance and feedback!
 
-# usage
-
-```bash
-pip install -r requirements.txt
-python3 autodiff.py
+```
+python autodiff.py
 
 << ////
 Original function:
