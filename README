@@ -7,7 +7,7 @@ studying jax forward-mode automatic differentiation internals.
 special thanks to Ivan Yashchuk @ Nvidia for guidance and feedback!
 
 ```
-python autodiff.py
+$ python autodiff.py
 
 # Original function:
 # 
